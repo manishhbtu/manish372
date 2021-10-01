@@ -6,3 +6,5 @@ sum=$(($a+$b))
 echo "sum is $sum"
 sub=$(($a-$b))
 echo "sub is $sub"
+multy=$(($a*$b))
+echo "multyplication is $multy"
